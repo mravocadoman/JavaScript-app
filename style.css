@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body{
+    display:grid;
+    font-size:2em;
+    background-image:url(bg.jpg);
+    color:white;
+    text-align: center;
+    font-family:'Work Sans', sans-serif;
+    }
+
+.button1{
+    background-color:darkred;
+    color:white;
+}
+
+ul{
+    list-style-type:none;
+}
+
+h1{
+    font-family:'Work Sans', sans-serif;
+    color:white;
+}
+.stuff {
+      text-decoration: line-through;
+    }
+
+#listitem{
+    height:20px;
+    width:auto;
+    color:darkred;
+    font-family:'Work Sans', sans-serif;
+}
